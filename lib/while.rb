@@ -4,9 +4,7 @@ def using_while
   levitation_force += 1
   puts "the current levitation force is #{levitation_force}"
 end
-  counter = 0
-	
-  #your code here
+
 end
 
 
